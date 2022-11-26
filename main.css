@@ -1,0 +1,60 @@
+main div  {
+    width: 50%;
+    height: auto;
+    background-color: #EEE9E5;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    border-radius: 10px;
+}
+aside   {
+	display: flex;
+	background-color: #F3EFEC;
+	justify-content: space-around;
+	width: auto;
+}
+aside section {
+    width: 300px;
+    margin-left: 19px;
+}
+aside section h2 {
+	text-align: center;
+	border-top: 15px solid #020202;
+	border-radius: 30px;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	border-bottom: 15px solid #020202;
+	color: #000000;
+}
+
+
+aside div h6 {
+    background-color: #000000;
+    color: #F3EFEC;
+    height: 15px;
+    width: auto;
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    border-style: solid;
+    border-radius: 43px;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+}
+aside div h6:hover {
+    color: #CC004D;
+    font-size: 85%;
+    border-style: solid;
+    border-color: #F3EFEC;
+    border-radius: 10px;
+}
+aside div p{
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif"
+}
